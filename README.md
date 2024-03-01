@@ -1,4 +1,5 @@
 ## Zenalytyx LLC
+![alt text](https://rl0pes.github.io/tagline.jpg)
 ## Bob Lopes is the Principal/owner of Zenalytyx LLC, a consulting firm that specializes in helping clients with a variety of technology and Intellectual Property matters. He has over 29 years of experience in dealing with patent analytics, reverse engineering and licensing support. 
 
 ### His engineering skills span a diverse range of technologies which have allowed him to create licensing cases for clients in the areas of : 
@@ -16,3 +17,5 @@
 #### - precise positioning (GPS, UWB, inertial navigation) 
 #### - mdisplays (LCD, OLED, micro-LED)
 #### - Robotics 
+
+## Email: bob.lopes@gmail.com
